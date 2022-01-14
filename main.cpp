@@ -1,28 +1,10 @@
-cout << "       ," << endl;
-cout << "       \\`-._           __" << endl;
-cout << "        \\  `-..____,.'  `." << endl;
-cout << "         :`.         /    \\`." << endl;
-cout << "         :  )       :      : \\" << endl;
-cout << "          ;'        '   ;  |  :" << endl;
-cout << "          )..      .. .:.`.;  :" << endl;
-cout << "         /::...  .:::...   ` ;" << endl;
-cout << "         ; _ '    __        /:\\" << endl;
-cout << "         `:o>   /\\o_>      ;:. `." << endl;
-cout << "        `-`.__ ;   __..--- /:.   \\" << endl;
-cout << "        === \\_/   ;=====_.':.     ;" << endl;
-cout << "        ,/'`--'...`--....        ;" << endl;
-cout << "              ;                    ;" << endl;
-cout << "            .'                      ;" << endl;
-cout << "          .'                        ;" << endl;
-cout << "        .'     ..     ,      .       ;" << endl;
-cout << "       :       ::..  /      ;::.     |" << endl;
-cout << "      /      `.;::.  |       ;:..    ;" << endl;
-cout << "     :         |:.   :       ;:.    ;" << endl;
-cout << "     :         ::     ;:..   |.    ;" << endl;
-cout << "      :       :;      :::....|     |" << endl;
-cout << "      /\\     ,/ \\      ;:::::;     ;" << endl;
-cout << "    .:. \\:..|    :     ; '.--|     ;" << endl;
-cout << "   ::.  :''  `-.,,;     ;'   ;     ;" << endl;
-cout << ".-'. _.'\\      / `;      \\,__:      \\" << endl;
-cout << "`---'    `----'   ;      /    \\,.,,,/" << endl;
-cout << "                   `----`              " << endl;
+#include <iostream>
+using namespace std;
+#include "point2D.hpp"
+#include "Polygone.hpp"
+#include "Parcelle.hpp"
+
+int main()
+{
+
+}
